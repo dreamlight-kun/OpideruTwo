@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:twilight_log"
+    },
+    "1": {
+      "item": "opideru_two:twilight_log"
+    },
+    "2": {
+      "item": "opideru_two:twilight_log"
+    },
+    "3": {
+      "item": "opideru_two:twilight_log"
+    }
+  },
+  "result": {
+    "item": "opideru_two:twilight_wood",
+    "count": 4
+  }
+}

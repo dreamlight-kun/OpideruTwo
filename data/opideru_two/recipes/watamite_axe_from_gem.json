@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:watamite_gem"
+    },
+    "1": {
+      "item": "opideru_two:watamite_gem"
+    },
+    "2": {
+      "item": "opideru_two:watamite_gem"
+    },
+    "3": {
+      "tag": "forge:rods/iron"
+    },
+    "5": {
+      "tag": "forge:rods/iron"
+    }
+  },
+  "result": {
+    "item": "opideru_two:watamite_shovel",
+    "count": 1
+  }
+}

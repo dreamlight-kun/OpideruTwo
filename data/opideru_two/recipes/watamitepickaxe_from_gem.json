@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:watamite_gem"
+    },
+    "1": {
+      "item": "opideru_two:watamite_gem"
+    },
+    "2": {
+      "item": "opideru_two:watamite_gem"
+    },
+    "4": {
+      "tag": "forge:rods/iron"
+    },
+    "7": {
+      "tag": "forge:rods/iron"
+    }
+  },
+  "result": {
+    "item": "opideru_two:watamite_pickaxe",
+    "count": 1
+  }
+}

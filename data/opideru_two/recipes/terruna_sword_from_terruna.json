@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:terruna_ingot"
+    },
+    "1": {
+      "item": "opideru_two:terruna_ingot"
+    },
+    "2": {
+      "tag": "forge:rods/iron"
+    }
+  },
+  "result": {
+    "item": "opideru_two:terruna_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:xp_infused_bottle"
+    },
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "opideru_two:xp_infused_bottle"
+    },
+    "3": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "minecraft:experience_bottle"
+    },
+    "5": {
+      "item": "minecraft:emerald"
+    },
+    "6": {
+      "item": "opideru_two:xp_infused_bottle"
+    },
+    "7": {
+      "item": "minecraft:emerald"
+    },
+    "8": {
+      "item": "opideru_two:xp_infused_bottle"
+    }
+  },
+  "result": {
+    "item": "opideru_two:xp_infused_bottle_compressed",
+    "count": 1
+  }
+}

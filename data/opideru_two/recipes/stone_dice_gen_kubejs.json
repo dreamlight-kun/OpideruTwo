@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "kubejs:andesite_machine"
+  },
+  "addition": {
+    "tag": "forge:stone"
+  },
+  "result": {
+    "item": "opideru_two:stone_dice_generator"
+  }
+}

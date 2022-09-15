@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:titanium_nugget"
+    },
+    "1": {
+      "item": "opideru_two:titanium_nugget"
+    },
+    "2": {
+      "item": "opideru_two:titanium_nugget"
+    },
+    "3": {
+      "item": "opideru_two:titanium_nugget"
+    },
+    "4": {
+      "item": "opideru_two:titanium_nugget"
+    },
+    "5": {
+      "item": "opideru_two:titanium_nugget"
+    },
+    "6": {
+      "item": "opideru_two:titanium_nugget"
+    },
+    "7": {
+      "item": "opideru_two:titanium_nugget"
+    },
+    "8": {
+      "item": "opideru_two:titanium_nugget"
+    }
+  },
+  "result": {
+    "item": "opideru_two:titanium_ingot",
+    "count": 1
+  }
+}

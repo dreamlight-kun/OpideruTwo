@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:xp_infused_bottle_compressed"
+    },
+    "1": {
+      "item": "opideru_two:dream_shard"
+    },
+    "2": {
+      "item": "opideru_two:xp_infused_bottle_compressed"
+    },
+    "3": {
+      "tag": "forge:enchantment_slots"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "tag": "forge:enchantment_slots"
+    },
+    "6": {
+      "item": "opideru_two:hope_shard"
+    },
+    "7": {
+      "item": "opideru_two:xp_infused_bottle_compressed"
+    },
+    "8": {
+      "item": "opideru_two:wish_shard"
+    }
+  },
+  "result": {
+    "item": "opideru_two:trinity_shard",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:twilight_planks"
+    },
+    "3": {
+      "item": "opideru_two:twilight_planks"
+    },
+    "4": {
+      "item": "opideru_two:twilight_planks"
+    },
+    "6": {
+      "item": "opideru_two:twilight_planks"
+    },
+    "7": {
+      "item": "opideru_two:twilight_planks"
+    },
+    "8": {
+      "item": "opideru_two:twilight_planks"
+    }
+  },
+  "result": {
+    "item": "opideru_two:twilight_stairs",
+    "count": 8
+  }
+}

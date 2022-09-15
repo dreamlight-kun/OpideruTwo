@@ -1,0 +1,12 @@
+{
+  "group": "titanium",
+  "type": "minecraft:blasting",
+  "experience": 4,
+  "cookingtime": 75,
+  "ingredient": {
+    "item": "opideru_two:raw_titanium"
+  },
+  "result": {
+    "item": "opideru_two:titanium_ingot"
+  }
+}

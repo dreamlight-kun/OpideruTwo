@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:xperiane_ingot"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:xperiane_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "opideru_two:watamite_sword"
+  },
+  "addition": {
+    "item": "opideru_two:moltira_sword"
+  },
+  "result": {
+    "item": "opideru_two:watamoltite_sword"
+  }
+}

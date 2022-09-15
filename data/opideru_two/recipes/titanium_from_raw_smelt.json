@@ -1,0 +1,12 @@
+{
+  "group": "titanium",
+  "type": "minecraft:smelting",
+  "experience": 4,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "opideru_two:raw_titanium"
+  },
+  "result": {
+    "item": "opideru_two:titanium_ingot"
+  }
+}

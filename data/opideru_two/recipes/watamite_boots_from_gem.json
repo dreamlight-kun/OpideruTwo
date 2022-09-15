@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:watamite_gem"
+    },
+    "2": {
+      "item": "opideru_two:watamite_gem"
+    },
+    "3": {
+      "item": "opideru_two:watamite_gem"
+    },
+    "5": {
+      "item": "opideru_two:watamite_gem"
+    }
+  },
+  "result": {
+    "item": "opideru_two:watamite_boots",
+    "count": 1
+  }
+}

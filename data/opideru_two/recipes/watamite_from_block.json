@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:watamite_block"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:watamite_gem",
+    "count": 9
+  }
+}

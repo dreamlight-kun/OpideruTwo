@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:terruna_ingot"
+    },
+    "1": {
+      "item": "opideru_two:terruna_ingot"
+    },
+    "2": {
+      "item": "opideru_two:terruna_ingot"
+    },
+    "4": {
+      "tag": "forge:rods/iron"
+    },
+    "7": {
+      "tag": "forge:rods/iron"
+    }
+  },
+  "result": {
+    "item": "opideru_two:terruna_pickaxe",
+    "count": 1
+  }
+}

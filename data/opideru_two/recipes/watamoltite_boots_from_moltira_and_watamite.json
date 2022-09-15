@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "opideru_two:watamite_boots"
+  },
+  "addition": {
+    "item": "opideru_two:moltira_boots"
+  },
+  "result": {
+    "item": "opideru_two:watamoltite_boots"
+  }
+}

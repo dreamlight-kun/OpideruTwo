@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:birch_planks"
+    },
+    "1": {
+      "item": "minecraft:birch_planks"
+    },
+    "2": {
+      "item": "minecraft:glass"
+    },
+    "3": {
+      "item": "minecraft:birch_planks"
+    },
+    "4": {
+      "item": "minecraft:glass"
+    },
+    "5": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "result": {
+    "item": "opideru_two:windowed_birch_door",
+    "count": 3
+  }
+}

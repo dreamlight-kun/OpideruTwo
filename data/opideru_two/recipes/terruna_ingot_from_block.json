@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:terruna_block"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:terruna_ingot",
+    "count": 9
+  }
+}

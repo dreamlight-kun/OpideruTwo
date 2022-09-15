@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 8,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "opideru_two:raw_terruna"
+  },
+  "result": {
+    "item": "opideru_two:terruna_ingot"
+  }
+}

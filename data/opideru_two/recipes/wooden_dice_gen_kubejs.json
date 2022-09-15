@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "kubejs:andesite_machine"
+  },
+  "addition": {
+    "tag": "minecraft:logs"
+  },
+  "result": {
+    "item": "opideru_two:wooden_dice_generator"
+  }
+}
