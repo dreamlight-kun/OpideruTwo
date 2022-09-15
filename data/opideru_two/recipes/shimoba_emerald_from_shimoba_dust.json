@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "opideru_two:shimoba_dust"
+    },
+    {
+      "item": "opideru_two:shimoba_dust"
+    },
+    {
+      "item": "opideru_two:blue_ice_crystal"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:shimoba_emerald",
+    "count": 1
+  }
+}

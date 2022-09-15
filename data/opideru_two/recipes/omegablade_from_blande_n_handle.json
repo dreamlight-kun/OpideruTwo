@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "opideru_two:blade_n_handle"
+  },
+  "addition": {
+    "item": "opideru_two:evolution_metal"
+  },
+  "result": {
+    "item": "opideru_two:omegablade"
+  }
+}

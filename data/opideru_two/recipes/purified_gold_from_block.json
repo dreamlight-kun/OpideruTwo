@@ -1,0 +1,13 @@
+{
+  "group": "purified_gold",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:purified_gold_block"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:purified_gold_ingot",
+    "count": 9
+  }
+}

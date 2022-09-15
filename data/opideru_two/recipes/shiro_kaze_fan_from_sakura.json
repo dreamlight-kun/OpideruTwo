@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:sakura_planks"
+    },
+    "1": {
+      "item": "minecraft:paper"
+    },
+    "2": {
+      "item": "minecraft:paper"
+    },
+    "3": {
+      "item": "opideru_two:sakura_planks"
+    },
+    "4": {
+      "item": "minecraft:paper"
+    },
+    "5": {
+      "item": "minecraft:paper"
+    },
+    "6": {
+      "tag": "forge:rods/wooden"
+    },
+    "7": {
+      "item": "opideru_two:sakura_planks"
+    },
+    "8": {
+      "item": "opideru_two:sakura_planks"
+    }
+  },
+  "result": {
+    "item": "opideru_two:shiro_kaze_fan",
+    "count": 1
+  }
+}

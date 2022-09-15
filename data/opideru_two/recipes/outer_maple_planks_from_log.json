@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "opideru_two:logs/outer_maple"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:outer_maple_planks",
+    "count": 4
+  }
+}

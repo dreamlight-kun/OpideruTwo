@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:shimoba_emerald"
+    },
+    "1": {
+      "item": "opideru_two:shimoba_emerald"
+    },
+    "2": {
+      "item": "opideru_two:shimoba_emerald"
+    },
+    "3": {
+      "item": "opideru_two:shimoba_emerald"
+    },
+    "4": {
+      "item": "opideru_two:shimoba_emerald"
+    },
+    "5": {
+      "item": "opideru_two:shimoba_emerald"
+    },
+    "6": {
+      "item": "opideru_two:shimoba_emerald"
+    },
+    "7": {
+      "item": "opideru_two:shimoba_emerald"
+    },
+    "8": {
+      "item": "opideru_two:shimoba_emerald"
+    }
+  },
+  "result": {
+    "item": "opideru_two:shimoba_emerald_block",
+    "count": 1
+  }
+}

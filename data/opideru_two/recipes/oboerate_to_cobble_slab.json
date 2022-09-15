@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "opideru_two:oboerante_cobblestone"
+  },
+  "result": "opideru_two:oboerante_cobblestone_slab"
+}

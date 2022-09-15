@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:compact_ornate_gem"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:ornate_gemstone",
+    "count": 17
+  }
+}

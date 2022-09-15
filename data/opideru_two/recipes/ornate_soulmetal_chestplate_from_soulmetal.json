@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "opideru_two:soulmetal_chestplate"
+  },
+  "addition": {
+    "item": "opideru_two:compact_ornate_gem"
+  },
+  "result": {
+    "item": "opideru_two:ornate_soulmetal_chestplate"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:obsidian_emerald"
+    },
+    {
+      "item": "opideru_two:obsidian_emerald"
+    },
+    {
+      "item": "opideru_two:obsidian_emerald"
+    },
+    {
+      "item": "opideru_two:obsidian_emerald"
+    },
+    {
+      "item": "opideru_two:obsidian_emerald"
+    },
+    {
+      "item": "opideru_two:obsidian_emerald"
+    },
+    {
+      "item": "opideru_two:obsidian_emerald"
+    },
+    {
+      "item": "opideru_two:obsidian_emerald"
+    },
+    {
+      "item": "opideru_two:obsidian_emerald"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:obsidian_emerald_block",
+    "count": 1
+  }
+}

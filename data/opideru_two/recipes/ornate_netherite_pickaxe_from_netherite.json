@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "addition": {
+    "item": "opideru_two:ornate_netherite_ingot"
+  },
+  "result": {
+    "item": "opideru_two:ornate_netherite_pickaxe"
+  }
+}

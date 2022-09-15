@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:outer_maple_log_stripped"
+    },
+    "1": {
+      "item": "opideru_two:outer_maple_log_stripped"
+    },
+    "2": {
+      "item": "opideru_two:outer_maple_log_stripped"
+    },
+    "3": {
+      "item": "opideru_two:outer_maple_log_stripped"
+    }
+  },
+  "result": {
+    "item": "opideru_two:outer_maple_wood_stripped",
+    "count": 3
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "opideru_two:netherite_hammer"
+  },
+  "addition": {
+    "item": "opideru_two:ornate_netherite_ingot"
+  },
+  "result": {
+    "item": "opideru_two:ornate_netherite_hammer"
+  }
+}

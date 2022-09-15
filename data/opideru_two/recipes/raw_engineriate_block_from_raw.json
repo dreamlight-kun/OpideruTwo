@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:raw_engineriate"
+    },
+    "1": {
+      "item": "opideru_two:raw_engineriate"
+    },
+    "2": {
+      "item": "opideru_two:raw_engineriate"
+    },
+    "3": {
+      "item": "opideru_two:raw_engineriate"
+    },
+    "4": {
+      "item": "opideru_two:raw_engineriate"
+    },
+    "5": {
+      "item": "opideru_two:raw_engineriate"
+    },
+    "6": {
+      "item": "opideru_two:raw_engineriate"
+    },
+    "7": {
+      "item": "opideru_two:raw_engineriate"
+    },
+    "8": {
+      "item": "opideru_two:raw_engineriate"
+    }
+  },
+  "result": {
+    "item": "opideru_two:raw_engineriate_block",
+    "count": 1
+  }
+}

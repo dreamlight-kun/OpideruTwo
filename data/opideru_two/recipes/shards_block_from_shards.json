@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "tag": "opideru_two:shards"
+    },
+    "1": {
+      "tag": "opideru_two:shards"
+    },
+    "2": {
+      "tag": "opideru_two:shards"
+    },
+    "3": {
+      "tag": "opideru_two:shards"
+    }
+  },
+  "result": {
+    "item": "opideru_two:fallen_shards_block",
+    "count": 1
+  }
+}

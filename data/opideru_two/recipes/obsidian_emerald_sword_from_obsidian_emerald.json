@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "opideru_two:emerald_sword"
+  },
+  "addition": {
+    "item": "opideru_two:obsidian_emerald"
+  },
+  "result": {
+    "item": "opideru_two:obsidian_emerald_sword"
+  }
+}

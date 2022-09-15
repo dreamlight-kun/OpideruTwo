@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "cavesandcliffsbackport:amethyst_shard"
+    },
+    "1": {
+      "item": "opideru_two:obsidian_emerald"
+    },
+    "2": {
+      "item": "minecraft:iron_bars"
+    },
+    "4": {
+      "tag": "forge:rods/iron"
+    },
+    "7": {
+      "tag": "forge:rods/iron"
+    }
+  },
+  "result": {
+    "item": "opideru_two:setter",
+    "count": 1
+  }
+}

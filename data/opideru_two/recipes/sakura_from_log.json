@@ -1,0 +1,13 @@
+{
+  "group": "sakura",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "opideru:logs/sakura"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:sakura_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:dream_shard"
+    },
+    "1": {
+      "item": "opideru_two:hope_shard"
+    },
+    "2": {
+      "item": "opideru_two:wish_shard"
+    },
+    "3": {
+      "item": "opideru_two:oblivion_shard"
+    },
+    "4": {
+      "item": "opideru_two:heart_of_the_mountain"
+    },
+    "5": {
+      "item": "opideru_two:philosophy_shard"
+    },
+    "6": {
+      "item": "opideru_two:fate_shard"
+    },
+    "7": {
+      "item": "opideru_two:eternity_shard"
+    },
+    "8": {
+      "item": "opideru_two:prosperity_shard"
+    }
+  },
+  "result": {
+    "item": "opideru_two:orb_of_the_hero",
+    "count": 1
+  }
+}

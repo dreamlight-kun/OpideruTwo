@@ -1,0 +1,32 @@
+{
+  "group": "sakura",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:sakura_planks"
+    },
+    "1": {
+      "tag": "forge:rod/wooden"
+    },
+    "2": {
+      "item": "opideru_two:sakura_planks"
+    },
+    "3": {
+      "item": "opideru_two:sakura_planks"
+    },
+    "4": {
+      "tag": "forge:rods/wooden"
+    },
+    "5": {
+      "item": "opideru_two:sakura_planks"
+    }
+  },
+  "result": {
+    "item": "opideru_two:sakura_fence",
+    "count": 3
+  }
+}

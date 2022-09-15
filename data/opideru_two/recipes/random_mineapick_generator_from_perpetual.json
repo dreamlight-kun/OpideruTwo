@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:titanium_ingot"
+    },
+    "1": {
+      "item": "opideru_two:engineriate_ingot"
+    },
+    "2": {
+      "item": "opideru_two:titanium_ingot"
+    },
+    "3": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "4": {
+      "item": "opideru_two:perpetual_core"
+    },
+    "5": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "6": {
+      "item": "minecraft:smooth_stone"
+    },
+    "7": {
+      "item": "minecraft:smooth_stone"
+    },
+    "8": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "opideru_two:random_mineapick_generator",
+    "count": 1
+  }
+}

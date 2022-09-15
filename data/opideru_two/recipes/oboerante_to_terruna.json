@@ -1,0 +1,20 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "opideru_two:powdered_oboerante"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "opideru_two:terruna_nugget",
+			"count": 1,
+			"chance": 0.8
+		},
+		{
+			"item": "opideru_two:engineriate_nugget",
+			"count": 1,
+			"chance": 0.2
+		}
+	]
+}

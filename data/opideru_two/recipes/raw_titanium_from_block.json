@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:raw_titanium_block"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:raw_titanium",
+    "count": 9
+  }
+}

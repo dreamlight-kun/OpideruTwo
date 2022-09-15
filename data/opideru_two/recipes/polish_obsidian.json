@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "opideru_two:titane_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "opideru_two:blank_disc"
+    }
+  ]
+}

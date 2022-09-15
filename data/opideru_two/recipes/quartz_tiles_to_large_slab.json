@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "opideru_two:large_quartz_tiles"
+  },
+  "result": "opideru_two:large_quartz_tiles_slab"
+}

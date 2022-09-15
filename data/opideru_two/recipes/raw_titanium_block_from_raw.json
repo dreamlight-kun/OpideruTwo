@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:raw_titanium"
+    },
+    "1": {
+      "item": "opideru_two:raw_titanium"
+    },
+    "2": {
+      "item": "opideru_two:raw_titanium"
+    },
+    "3": {
+      "item": "opideru_two:raw_titanium"
+    },
+    "4": {
+      "item": "opideru_two:raw_titanium"
+    },
+    "5": {
+      "item": "opideru_two:raw_titanium"
+    },
+    "6": {
+      "item": "opideru_two:raw_titanium"
+    },
+    "7": {
+      "item": "opideru_two:raw_titanium"
+    },
+    "8": {
+      "item": "opideru_two:raw_titanium"
+    }
+  },
+  "result": {
+    "item": "opideru_two:raw_titanium_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:raw_terruna"
+    },
+    {
+      "item": "opideru_two:raw_terruna"
+    },
+    {
+      "item": "opideru_two:raw_terruna"
+    },
+    {
+      "item": "opideru_two:raw_terruna"
+    },
+    {
+      "item": "opideru_two:raw_terruna"
+    },
+    {
+      "item": "opideru_two:raw_terruna"
+    },
+    {
+      "item": "opideru_two:raw_terruna"
+    },
+    {
+      "item": "opideru_two:raw_terruna"
+    },
+    {
+      "item": "opideru_two:raw_terruna"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:raw_terruna_block",
+    "count": 1
+  }
+}
