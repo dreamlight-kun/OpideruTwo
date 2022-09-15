@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:soul_lantern",
+    "opideru_two:sakura_lantern_big",
+    "minecraft:lantern"
+  ]
+}

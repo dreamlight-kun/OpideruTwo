@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "opideru_two:compact_engineriate_tools_ore",
+    "opideru_two:compact_terruna_tools_ore",
+    "opideru_two:compact_gold_tools_ore",
+    "opideru_two:compact_iron_tools_ore",
+    "opideru_two:compact_titanium_tools_ore",
+    "opideru_two:compact_diamond_tools_ore",
+    "opideru_two:compact_watamite_tools_ore"
+  ]
+}

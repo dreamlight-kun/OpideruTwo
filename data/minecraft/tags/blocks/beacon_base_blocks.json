@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "opideru_two:watamite_block",
+    "opideru_two:ornate_netherite_block",
+    "opideru_two:soulcharged_coal_block",
+    "opideru_two:obsidian_emerald_block",
+    "opideru_two:shimoba_emerald_block",
+    "opideru_two:terruna_block",
+    "opideru_two:carbonmetal_block",
+    "opideru_two:purified_gold_block",
+    "opideru_two:moltira_block",
+    "opideru_two:soulmetal_block",
+    "opideru_two:gilded_netherite_block",
+    "opideru_two:ornate_gemstone_block",
+    "opideru_two:titanium_block",
+    "opideru_two:kasainium_block",
+    "opideru_two:engineriate_block"
+  ]
+}
