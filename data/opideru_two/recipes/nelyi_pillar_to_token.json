@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:oboerante_bricks_stairs"
+    },
+    "1": {
+      "item": "opideru_two:nelyi_flower"
+    },
+    "2": {
+      "item": "opideru_two:oboerante_bricks_stairs"
+    },
+    "3": {
+      "item": "opideru_two:oboerante_bricks_wall"
+    },
+    "4": {
+      "item": "opideru_two:oboerante_bricks"
+    },
+    "5": {
+      "item": "opideru_two:oboerante_bricks_wall"
+    },
+    "6": {
+      "item": "opideru_two:oboerante_bricks_stairs"
+    },
+    "7": {
+      "item": "opideru_two:blank_token"
+    },
+    "8": {
+      "item": "opideru_two:oboerante_bricks_stairs"
+    }
+  },
+  "result": {
+    "item": "opideru_two:shii_pillar_token",
+    "count": 1
+  }
+}

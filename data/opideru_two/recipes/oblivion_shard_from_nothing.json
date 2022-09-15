@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:titanium_nugget"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "opideru_two:engineriate_nugget"
+    },
+    {
+      "item": "opideru_two:titanium_nugget"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:oblivion_shard",
+    "count": 4
+  }
+}

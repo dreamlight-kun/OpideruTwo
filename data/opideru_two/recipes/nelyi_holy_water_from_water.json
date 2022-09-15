@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:nelyi_flower"
+    },
+    "1": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "opideru_two:nelyi_holy_water",
+    "count": 1
+  }
+}

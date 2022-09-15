@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:fallen_shards_block"
+    },
+    "1": {
+      "item": "opideru_two:fallen_shards_block"
+    },
+    "2": {
+      "item": "opideru_two:fallen_shards_block"
+    },
+    "3": {
+      "item": "opideru_two:fallen_shards_block"
+    },
+    "4": {
+      "item": "opideru_two:obsidian_emerald"
+    },
+    "5": {
+      "item": "opideru_two:fallen_shards_block"
+    },
+    "6": {
+      "item": "opideru_two:fallen_shards_block"
+    },
+    "7": {
+      "item": "opideru_two:fallen_shards_block"
+    },
+    "8": {
+      "item": "opideru_two:fallen_shards_block"
+    }
+  },
+  "result": {
+    "item": "opideru_two:fallen_shards_budding_block",
+    "count": 8
+  }
+}

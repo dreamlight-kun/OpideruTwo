@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:moltira_gem"
+    },
+    "2": {
+      "item": "opideru_two:moltira_gem"
+    },
+    "3": {
+      "item": "opideru_two:moltira_gem"
+    },
+    "4": {
+      "item": "opideru_two:moltira_gem"
+    },
+    "5": {
+      "item": "opideru_two:moltira_gem"
+    },
+    "6": {
+      "item": "opideru_two:moltira_gem"
+    },
+    "7": {
+      "item": "opideru_two:moltira_gem"
+    },
+    "8": {
+      "item": "opideru_two:moltira_gem"
+    }
+  },
+  "result": {
+    "item": "opideru_two:moltira_chestplate",
+    "count": 1
+  }
+}

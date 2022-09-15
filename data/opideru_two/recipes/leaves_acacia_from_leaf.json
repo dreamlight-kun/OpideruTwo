@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:leaf"
+    },
+    "1": {
+      "item": "opideru_two:leaf"
+    },
+    "2": {
+      "item": "opideru_two:leaf"
+    },
+    "3": {
+      "item": "opideru_two:leaf"
+    },
+    "4": {
+      "item": "minecraft:acacia_sapling"
+    },
+    "5": {
+      "item": "opideru_two:leaf"
+    },
+    "6": {
+      "item": "opideru_two:leaf"
+    },
+    "7": {
+      "item": "opideru_two:leaf"
+    },
+    "8": {
+      "item": "opideru_two:leaf"
+    }
+  },
+  "result": {
+    "item": "minecraft:acacia_leaves",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:prosperity_shard"
+    },
+    "1": {
+      "item": "opideru_two:duplicaxe"
+    },
+    "2": {
+      "item": "opideru_two:prosperity_shard"
+    },
+    "3": {
+      "item": "opideru_two:transcavite"
+    },
+    "4": {
+      "item": "opideru_two:perpetual_core"
+    },
+    "5": {
+      "item": "opideru_two:transcavite"
+    },
+    "6": {
+      "item": "minecraft:smooth_stone"
+    },
+    "7": {
+      "item": "minecraft:smooth_stone"
+    },
+    "8": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "opideru_two:multisetter_duplicator",
+    "count": 1
+  }
+}

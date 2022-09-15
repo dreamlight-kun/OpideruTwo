@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:compact_lapis_gem"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lapis_lazuli",
+    "count": 17
+  }
+}

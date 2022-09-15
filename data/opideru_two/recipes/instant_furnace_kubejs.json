@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "kubejs:invar_machine"
+  },
+  "addition": {
+    "item": "minecraft:blast_furnace"
+  },
+  "result": {
+    "item": "opideru_two:instant_furnace"
+  }
+}

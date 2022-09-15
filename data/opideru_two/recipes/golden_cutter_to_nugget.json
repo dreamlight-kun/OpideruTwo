@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 10,
+  "cookingtime": 120,
+  "ingredient": {
+    "item": "opideru_two:golden_cutter"
+  },
+  "result": {
+    "item": "minecraft:gold_nugget"
+  }
+}

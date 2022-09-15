@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "1": {
+      "item": "opideru_two:fate_shard"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "opideru_two:fate_shard"
+    },
+    "4": {
+      "item": "opideru_two:disc_blank"
+    },
+    "5": {
+      "item": "opideru_two:fate_shard"
+    },
+    "6": {
+      "item": "minecraft:gold_ingot"
+    },
+    "7": {
+      "item": "opideru_two:fate_shard"
+    },
+    "8": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "opideru_two:convertion_disc",
+    "count": 1
+  }
+}

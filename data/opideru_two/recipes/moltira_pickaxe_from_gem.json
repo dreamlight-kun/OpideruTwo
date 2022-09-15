@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:moltira_gem"
+    },
+    {
+      "item": "opideru_two:moltira_gem"
+    },
+    {
+      "item": "opideru_two:moltira_gem"
+    },
+    {
+      "tag": "forge:rods/iron"
+    },
+    {
+      "tag": "forge:rods/iron"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:moltira_pickaxe",
+    "count": 1
+  }
+}

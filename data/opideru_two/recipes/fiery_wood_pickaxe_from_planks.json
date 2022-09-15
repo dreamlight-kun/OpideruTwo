@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:fiery_planks"
+    },
+    "1": {
+      "item": "opideru_two:fiery_planks"
+    },
+    "2": {
+      "item": "opideru_two:fiery_planks"
+    },
+    "4": {
+      "item": "opideru_two:fiery_wood_stick"
+    },
+    "7": {
+      "item": "opideru_two:fiery_wood_stick"
+    }
+  },
+  "result": {
+    "item": "opideru_two:fiery_wooden_pickaxe",
+    "count": 1
+  }
+}

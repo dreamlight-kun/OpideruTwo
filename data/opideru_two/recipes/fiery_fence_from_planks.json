@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:fiery_planks"
+    },
+    "1": {
+      "item": "opideru_two:fiery_wood_stick"
+    },
+    "2": {
+      "item": "opideru_two:fiery_planks"
+    },
+    "3": {
+      "item": "opideru_two:fiery_planks"
+    },
+    "4": {
+      "item": "opideru_two:fiery_wood_stick"
+    },
+    "5": {
+      "item": "opideru_two:fiery_planks"
+    }
+  },
+  "result": {
+    "item": "opideru_two:fiery_planks_fence",
+    "count": 3
+  }
+}

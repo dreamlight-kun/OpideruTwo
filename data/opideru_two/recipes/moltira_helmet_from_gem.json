@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:moltira_gem"
+    },
+    "1": {
+      "item": "opideru_two:moltira_gem"
+    },
+    "2": {
+      "item": "opideru_two:moltira_gem"
+    },
+    "3": {
+      "item": "opideru_two:moltira_gem"
+    },
+    "5": {
+      "item": "opideru_two:moltira_gem"
+    }
+  },
+  "result": {
+    "item": "opideru_two:moltira_helmet",
+    "count": 1
+  }
+}

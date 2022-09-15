@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "opideru_two:oblivion_shard"
+  },
+  "addition": {
+    "item": "opideru_two:compact_ornate_gem"
+  },
+  "result": {
+    "item": "opideru_two:hope_shard"
+  }
+}

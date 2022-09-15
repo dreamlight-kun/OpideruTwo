@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:golden_rod"
+    },
+    "1": {
+      "item": "opideru_two:purified_gold_rod"
+    },
+    "2": {
+      "item": "opideru_two:golden_rod"
+    }
+  },
+  "result": {
+    "item": "opideru_two:handle",
+    "count": 1
+  }
+}

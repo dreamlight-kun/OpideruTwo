@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:gilded_netherite"
+    },
+    "1": {
+      "item": "opideru_two:gilded_netherite"
+    },
+    "2": {
+      "item": "opideru_two:gilded_netherite"
+    },
+    "3": {
+      "item": "opideru_two:gilded_netherite"
+    },
+    "4": {
+      "item": "opideru_two:gilded_netherite"
+    },
+    "5": {
+      "item": "opideru_two:gilded_netherite"
+    },
+    "6": {
+      "item": "opideru_two:gilded_netherite"
+    },
+    "7": {
+      "item": "opideru_two:gilded_netherite"
+    },
+    "8": {
+      "item": "opideru_two:gilded_netherite"
+    }
+  },
+  "result": {
+    "item": "opideru_two:gilded_netherite_block",
+    "count": 1
+  }
+}

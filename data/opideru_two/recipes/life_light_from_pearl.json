@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:xp_infused_bottle"
+    },
+    "1": {
+      "item": "opideru_two:life_pearl"
+    },
+    "2": {
+      "item": "opideru_two:xp_infused_bottle"
+    },
+    "3": {
+      "item": "opideru_two:transcavite"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "opideru_two:transcavite"
+    },
+    "6": {
+      "item": "opideru_two:xp_infused_bottle"
+    },
+    "7": {
+      "item": "opideru_two:life_pearl"
+    },
+    "8": {
+      "item": "opideru_two:xp_infused_bottle"
+    }
+  },
+  "result": {
+    "item": "opideru_two:life_light",
+    "count": 1
+  }
+}

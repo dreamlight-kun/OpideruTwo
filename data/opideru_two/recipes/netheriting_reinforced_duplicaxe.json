@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "opideru_two:reinforced_duplicaxe"
+  },
+  "addition": {
+    "item": "opideru_two:evolution_netherite"
+  },
+  "result": {
+    "item": "opideru_two:netherite_reinforced_duplicaxe"
+  }
+}

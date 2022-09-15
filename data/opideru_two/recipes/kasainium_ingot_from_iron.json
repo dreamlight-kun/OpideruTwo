@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "opideru_two:youganba_essence"
+    },
+    {
+      "item": "opideru_two:youganba_essence"
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:kasainium_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:fiery_planks"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:fiery_planks_button",
+    "count": 1
+  }
+}

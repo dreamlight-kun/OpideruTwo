@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "opideru_two:oboerante"
+  },
+  "result": "opideru_two:oboerante_bricks"
+}

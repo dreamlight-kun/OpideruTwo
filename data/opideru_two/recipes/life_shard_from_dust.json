@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "opideru_two:life_dust"
+    },
+    "3": {
+      "item": "opideru_two:life_dust"
+    },
+    "4": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "5": {
+      "item": "opideru_two:life_dust"
+    },
+    "7": {
+      "item": "opideru_two:life_dust"
+    }
+  },
+  "result": {
+    "item": "opideru_two:life_shard",
+    "count": 1
+  }
+}

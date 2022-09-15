@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:carbon_ingot"
+    },
+    "1": {
+      "item": "opideru_two:terruna_ingot"
+    },
+    "2": {
+      "item": "opideru_two:carbon_ingot"
+    },
+    "3": {
+      "item": "minecraft:blast_furnace"
+    },
+    "4": {
+      "item": "opideru_two:perpetual_core"
+    },
+    "5": {
+      "item": "minecraft:blast_furnace"
+    },
+    "6": {
+      "item": "minecraft:smooth_stone"
+    },
+    "7": {
+      "item": "minecraft:smooth_stone"
+    },
+    "8": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "opideru_two:instant_furnace",
+    "count": 1
+  }
+}

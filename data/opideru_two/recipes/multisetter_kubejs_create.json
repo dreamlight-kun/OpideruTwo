@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "kubejs:brass_machine"
+  },
+  "addition": {
+    "item": "opideru_two:duplicaxe"
+  },
+  "result": {
+    "item": "opideru_two:multisetter_duplicator"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "opideru_two:youganba_essence"
+    },
+    "3": {
+      "item": "opideru_two:youganba_essence"
+    },
+    "4": {
+      "item": "minecraft:glowstone"
+    },
+    "5": {
+      "item": "opideru_two:youganba_essence"
+    },
+    "7": {
+      "item": "opideru_two:youganba_essence"
+    }
+  },
+  "result": {
+    "item": "opideru_two:lava_luminous_stone",
+    "count": 1
+  }
+}

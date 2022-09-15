@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:compact_redstone_gem"
+    },
+    "1": {
+      "item": "opideru_two:life_shard"
+    },
+    "2": {
+      "item": "opideru_two:compact_redstone_gem"
+    },
+    "3": {
+      "item": "opideru_two:life_shard"
+    },
+    "4": {
+      "item": "minecraft:ender_pearl"
+    },
+    "5": {
+      "item": "opideru_two:life_shard"
+    },
+    "6": {
+      "item": "opideru_two:compact_redstone_gem"
+    },
+    "7": {
+      "item": "opideru_two:life_shard"
+    },
+    "8": {
+      "item": "opideru_two:compact_redstone_gem"
+    }
+  },
+  "result": {
+    "item": "opideru_two:life_pearl",
+    "count": 1
+  }
+}

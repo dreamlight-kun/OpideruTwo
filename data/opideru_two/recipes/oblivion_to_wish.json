@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "opideru_two:oblivion_shard"
+  },
+  "addition": {
+    "item": "opideru_two:sakura_lantern_big"
+  },
+  "result": {
+    "item": "opideru_two:wish_shard"
+  }
+}

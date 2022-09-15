@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "opideru_two:fiery_soil"
+    },
+    "3": {
+      "item": "opideru_two:fiery_soil"
+    },
+    "4": {
+      "item": "opideru_two:lavarock"
+    },
+    "5": {
+      "item": "opideru_two:fiery_soil"
+    },
+    "7": {
+      "item": "opideru_two:fiery_soil"
+    }
+  },
+  "result": {
+    "item": "opideru_two:magmorium",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "item": "opideru_two:shimoba_emerald"
+  },
+  "result": {
+    "item": "opideru_two:frosted_pickaxe"
+  }
+}

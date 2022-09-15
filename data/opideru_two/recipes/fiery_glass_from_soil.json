@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 18,
+  "cookingtime": 800,
+  "ingredient": {
+    "item": "opideru_two:fiery_soil"
+  },
+  "result": {
+    "item": "opideru_two:fiery_glass"
+  }
+}
