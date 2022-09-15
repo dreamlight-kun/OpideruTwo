@@ -1,0 +1,73 @@
+{
+  "availability": {
+    "tier": 4,
+    "categories": [
+      "metal"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "opideru_two:gilded_netherite"
+    }
+  },
+  "name": {
+    "translate": "material.opideru_two.gnetherite"
+  },
+  "name_prefix": {
+    "translate": "material.opideru_two.gnetherite"
+  },
+  "stats": {
+    "coating": {
+      "durability": [
+        {
+          "mul2": 0.5
+        },
+        {
+          "add": 10.0
+        }
+      ],
+      "armor_durability": {
+        "mul2": 0.15
+      },
+      "harvest_speed": {
+        "mul2": 0.15
+      },
+      "harvest_level": {
+        "max": 4.0
+      },
+      "melee_damage": {
+        "mul2": 0.4
+      },
+      "magic_damage": {
+        "mul2": 0.4
+      },
+      "ranged_damage": {
+        "mul2": 0.4
+      },
+      "armor_toughness": {
+        "add": 5.0
+      },
+      "knockback_resistance": {
+        "add": 1.5
+      },
+      "enchantability": {
+        "add": 15.0
+      }
+    }
+  },
+  "traits": {
+    "coating": [
+      {
+        "name": "silentgear:fireproof",
+        "level": 1
+      },
+      {
+        "name": "silentgear:brilliant",
+        "level": 1
+      }
+    ]
+  }
+}

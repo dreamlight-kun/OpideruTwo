@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "opideru_two:outer_maple_log",
+    "opideru_two:outer_maple_log_stripped",
+    "opideru_two:outer_maple_wood",
+    "opideru_two:outer_maple_inner",
+    "opideru_two:outer_maple_wood_stripped"
+  ]
+}

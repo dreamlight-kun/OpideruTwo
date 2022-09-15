@@ -1,0 +1,77 @@
+{
+  "availability": {
+    "tier": 4,
+    "categories": [
+      "rock",
+      "organic"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "opideru_two:astral_gijinko"
+    }
+  },
+  "name": {
+    "translate": "material.opideru_two.astral_gijinko"
+  },
+  "stats": {
+    "main": {
+      "durability": 3022.0,
+      "armor_durability": 12.0,
+      "armor_durability/elytra": 36.0,
+      "repair_efficiency": 1.3,
+      "enchantability": 18.0,
+      "armor": 10,
+      "armor/helmet": 1,
+      "armor/chestplate": 4,
+      "armor/leggings": 3,
+      "armor/boots": 1,
+      "armor_toughness": 1.2,
+      "knockback_resistance": 0.1,
+      "rarity": 40.0,
+      "silentgems:chargeability": 1.0
+    },
+    "tip": {
+      "armor_durability": {
+        "mul2": 1.8
+      },
+      "enchantability": {
+        "add": 5.0
+      },
+      "armor_durability/elytra" :{
+        "mul1": 2.0
+      },
+      "rarity": {
+        "add": 10.0
+      }
+    },
+    "adornment": {},
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:holy",
+        "level": 5
+      },
+      {
+        "name": "silentgear:indestructible",
+        "level": 1
+      }
+    ],
+    "tip": [
+      {
+        "name": "silentgear:indestructible",
+        "level": 5
+      }
+    ],
+    "adornment": [
+      {
+        "name": "silentgear:bastion",
+        "level": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:music_disc_11"
+    },
+    "title": {
+      "translate": "advancements.disc_11_get.title"
+    },
+    "description": {
+      "translate": "advancements.disc_11_get.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "disc_11_get": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:music_disc_11",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "loot": [
+      "opideru_two:advancements/achivement_disc_11"
+    ],
+    "recipes": [
+      "opideru_two:luck_from_awkward"
+    ]
+  },
+  "parent": "opideru_two:disc_13_get"
+}
