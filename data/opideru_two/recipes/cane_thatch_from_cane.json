@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sugar_cane"
+    },
+    "1": {
+      "item": "minecraft:sugar_cane"
+    },
+    "2": {
+      "item": "minecraft:sugar_cane"
+    },
+    "3": {
+      "item": "minecraft:sugar_cane"
+    }
+  },
+  "result": {
+    "item": "opideru_two:cane_thatch",
+    "count": 1
+  }
+}

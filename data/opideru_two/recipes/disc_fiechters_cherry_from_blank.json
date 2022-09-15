@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:cherry"
+    },
+    "1": {
+      "item": "opideru_two:sakura_log"
+    },
+    "2": {
+      "item": "opideru_two:cherry"
+    },
+    "3": {
+      "item": "opideru_two:golden_cherry"
+    },
+    "4": {
+      "item": "opideru_two:disc_blank"
+    },
+    "5": {
+      "item": "opideru_two:golden_cherry"
+    },
+    "6": {
+      "item": "opideru_two:cherry"
+    },
+    "7": {
+      "item": "opideru_two:sakura_log"
+    },
+    "8": {
+      "item": "opideru_two:cherry"
+    }
+  },
+  "result": {
+    "item": "opideru_two:disc_fiechters_cherry",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:evolvite_scraps"
+    },
+    {
+      "item": "opideru_two:evolvite_scraps"
+    },
+    {
+      "item": "opideru_two:evolvite_scraps"
+    },
+    {
+      "item": "opideru_two:evolvite_scraps"
+    },
+    {
+      "item": "opideru_two:fate_glittering_star"
+    },
+    {
+      "item": "opideru_two:fate_glittering_star"
+    },
+    {
+      "item": "opideru_two:fate_glittering_star"
+    },
+    {
+      "item": "opideru_two:fate_glittering_star"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:evolution_metal",
+    "count": 1
+  }
+}

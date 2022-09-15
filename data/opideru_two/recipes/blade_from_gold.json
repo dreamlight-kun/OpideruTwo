@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3  "
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:purified_gold_ingot"
+    },
+    "1": {
+      "item": "minecraft:golden_sword"
+    },
+    "2": {
+      "item": "minecraft:golden_sword"
+    },
+    "3": {
+      "item": "minecraft:golden_sword"
+    }
+  },
+  "result": {
+    "item": "opideru_two:blade",
+    "count": 1
+  }
+}

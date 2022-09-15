@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bottle"
+    },
+    {
+      "item": "minecraft:slime_ball",
+    },
+    {
+    	"item": "opideru_two:watamite_gem"	
+    }
+  ],
+  "results": [
+    {
+      "item": "opideru_two:block_catalyst"
+    }
+  ]
+}

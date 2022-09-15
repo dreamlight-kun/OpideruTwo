@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:sakura_sapling"
+    },
+    "1": {
+      "item": "opideru_two:sakura_wood"
+    },
+    "2": {
+      "item": "opideru_two:sakura_sapling"
+    },
+    "3": {
+      "item": "opideru_two:sakura_bookshelf"
+    },
+    "4": {
+      "item": "opideru_two:disc_blank"
+    },
+    "5": {
+      "item": "opideru_two:sakura_bookshelf"
+    },
+    "6": {
+      "item": "opideru_two:sakura_sapling"
+    },
+    "7": {
+      "item": "opideru_two:sakura_wood"
+    },
+    "8": {
+      "item": "opideru_two:sakura_sapling"
+    }
+  },
+  "result": {
+    "item": "opideru_two:disc_fiechters_dreams",
+    "count": 1
+  }
+}

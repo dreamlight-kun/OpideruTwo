@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:leaf"
+    },
+    "1": {
+      "tag": "minecraft:wool"
+    },
+    "2": {
+      "item": "opideru_two:leaf"
+    },
+    "3": {
+      "tag": "minecraft:leaves"
+    },
+    "4": {
+      "item": "opideru_two:disc_blank"
+    },
+    "5": {
+      "tag": "minecraft:leaves"
+    },
+    "6": {
+      "item": "opideru_two:leaf"
+    },
+    "7": {
+      "tag": "minecraft:wool"
+    },
+    "8": {
+      "item": "opideru_two:leaf"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_strad",
+    "count": 1
+  }
+}

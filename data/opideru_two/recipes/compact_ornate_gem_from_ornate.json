@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:ornate_gemstone"
+    },
+    "1": {
+      "item": "opideru_two:ornate_gemstone"
+    },
+    "2": {
+      "item": "opideru_two:ornate_gemstone"
+    },
+    "3": {
+      "item": "opideru_two:ornate_gemstone"
+    },
+    "4": {
+      "item": "opideru_two:ornate_gemstone_block"
+    },
+    "5": {
+      "item": "opideru_two:ornate_gemstone"
+    },
+    "6": {
+      "item": "opideru_two:ornate_gemstone"
+    },
+    "7": {
+      "item": "opideru_two:ornate_gemstone"
+    },
+    "8": {
+      "item": "opideru_two:ornate_gemstone"
+    }
+  },
+  "result": {
+    "item": "opideru_two:compact_ornate_gem",
+    "count": 1
+  }
+}

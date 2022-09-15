@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:cane_thatch"
+    },
+    "1": {
+      "item": "opideru_two:cane_thatch"
+    },
+    "2": {
+      "item": "opideru_two:cane_thatch"
+    }
+  },
+  "result": {
+    "item": "opideru_two:cane_thatch_slab",
+    "count": 6
+  }
+}

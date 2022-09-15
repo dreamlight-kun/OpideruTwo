@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:fate_stardust"
+    },
+    "1": {
+      "item": "opideru_two:fate_stardust"
+    },
+    "2": {
+      "item": "opideru_two:fate_stardust"
+    },
+    "3": {
+      "item": "opideru_two:fate_stardust"
+    },
+    "4": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "5": {
+      "item": "opideru_two:fate_stardust"
+    },
+    "6": {
+      "item": "opideru_two:fate_stardust"
+    },
+    "7": {
+      "item": "opideru_two:fate_stardust"
+    },
+    "8": {
+      "item": "opideru_two:fate_stardust"
+    }
+  },
+  "result": {
+    "item": "opideru_two:evolvite_scraps",
+    "count": 1
+  }
+}

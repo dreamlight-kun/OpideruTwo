@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:impermeable"
+    },
+    "1": {
+      "item": "minecraft:bricks"
+    },
+    "2": {
+      "tag": "minecraft:impermeable"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "opideru_two:disc_blank"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "tag": "minecraft:impermeable"
+    },
+    "7": {
+      "item": "minecraft:bricks"
+    },
+    "8": {
+      "tag": "minecraft:impermeable"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_chirp",
+    "count": 1
+  }
+}

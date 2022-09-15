@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:beds"
+    },
+    "1": {
+      "item": "minecraft:stone"
+    },
+    "2": {
+      "item": "minecraft:granite"
+    },
+    "3": {
+      "tag": "minecraft:leaves"
+    },
+    "4": {
+      "item": "opideru_two:disc_blank"
+    },
+    "5": {
+      "item": "minecraft:diorite"
+    },
+    "6": {
+      "tag": "minecraft:planks"
+    },
+    "7": {
+      "tag": "minecraft:logs"
+    },
+    "8": {
+      "item": "minecraft:andesite"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_blocks",
+    "count": 1
+  }
+}

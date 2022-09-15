@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "opideru_two:journey"
+  },
+  "addition": {
+    "item": "opideru_two:evolution_metal"
+  },
+  "result": {
+    "item": "opideru_two:chunchunmaru"
+  }
+}

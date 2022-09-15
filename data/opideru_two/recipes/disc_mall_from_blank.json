@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:torch"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:torch"
+    },
+    "3": {
+      "item": "minecraft:quartz"
+    },
+    "4": {
+      "item": "opideru_two:disc_blank"
+    },
+    "5": {
+      "item": "minecraft:quartz"
+    },
+    "6": {
+      "item": "minecraft:torch"
+    },
+    "7": {
+      "item": "minecraft:iron_ingot"
+    },
+    "8": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_mall",
+    "count": 1
+  }
+}

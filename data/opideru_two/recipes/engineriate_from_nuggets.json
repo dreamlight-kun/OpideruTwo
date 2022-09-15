@@ -1,0 +1,42 @@
+{
+  "group": "engineriate",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:engineriate_nugget"
+    },
+    "1": {
+      "item": "opideru_two:engineriate_nugget"
+    },
+    "2": {
+      "item": "opideru_two:engineriate_nugget"
+    },
+    "3": {
+      "item": "opideru_two:engineriate_nugget"
+    },
+    "4": {
+      "item": "opideru_two:engineriate_nugget"
+    },
+    "5": {
+      "item": "opideru_two:engineriate_nugget"
+    },
+    "6": {
+      "item": "opideru_two:engineriate_nugget"
+    },
+    "7": {
+      "item": "opideru_two:engineriate_nugget"
+    },
+    "8": {
+      "item": "opideru_two:engineriate_nugget"
+    }
+  },
+  "result": {
+    "item": "opideru_two:engineriate_ingot",
+    "count": 1
+  }
+}

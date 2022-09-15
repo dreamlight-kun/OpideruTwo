@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "opideru_two:compact_lapis_gem"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "opideru_two:compact_lapis_gem"
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "opideru_two:sakura_planks"
+    },
+    "6": {
+      "tag": "forge:rods/wooden"
+    },
+    "7": {
+      "item": "opideru_two:sakura_planks"
+    }
+  },
+  "result": {
+    "item": "opideru_two:ao_mizu_katana",
+    "count": 1
+  }
+}

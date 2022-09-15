@@ -1,0 +1,30 @@
+{
+  "group": "engineriate",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:engineriate_ingot"
+    },
+    "1": {
+      "item": "opideru_two:engineriate_ingot"
+    },
+    "2": {
+      "item": "opideru_two:engineriate_ingot"
+    },
+    "4": {
+      "tag": "forge:rods/wooden"
+    },
+    "7": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "opideru_two:engineriate_pickaxe",
+    "count": 1
+  }
+}

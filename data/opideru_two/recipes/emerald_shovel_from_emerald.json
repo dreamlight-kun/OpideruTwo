@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "tag": "forge:rods/wooden"
+    },
+    "2": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "opideru_two:emerald_shovel",
+    "count": 1
+  }
+}

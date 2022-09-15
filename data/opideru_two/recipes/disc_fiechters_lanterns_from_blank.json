@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lantern"
+    },
+    "1": {
+      "item": "opideru_two:sakura_lantern_big"
+    },
+    "2": {
+      "item": "minecraft:lantern"
+    },
+    "3": {
+      "item": "opideru_two:sakura_lantern_big"
+    },
+    "4": {
+      "item": "opideru_two:disc_blank"
+    },
+    "5": {
+      "item": "opideru_two:sakura_lantern_big"
+    },
+    "6": {
+      "item": "minecraft:lantern"
+    },
+    "7": {
+      "item": "opideru_two:sakura_lantern_big"
+    },
+    "8": {
+      "item": "minecraft:lantern"
+    }
+  },
+  "result": {
+    "item": "opideru_two:disc_fiechters_lanterns",
+    "count": 1
+  }
+}

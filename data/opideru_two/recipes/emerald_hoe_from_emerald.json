@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "3": {
+      "tag": "forge:rods/wooden"
+    },
+    "5": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "opideru_two:emerald_hoe",
+    "count": 1
+  }
+}

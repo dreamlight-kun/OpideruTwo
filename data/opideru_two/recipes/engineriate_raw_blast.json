@@ -1,0 +1,12 @@
+{
+  "group": "engineriate",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "opideru_two:raw_engineriate"
+  },
+  "result": {
+    "item": "opideru_two:engineriate_ingot"
+  }
+}

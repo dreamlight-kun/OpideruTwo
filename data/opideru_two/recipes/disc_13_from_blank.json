@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_nugget"
+    },
+    "1": {
+      "tag": "minecraft:beds"
+    },
+    "2": {
+      "item": "opideru_two:emerald_nugget"
+    },
+    "3": {
+      "item": "minecraft:string"
+    },
+    "4": {
+      "item": "opideru_two:disc_blank"
+    },
+    "5": {
+      "item": "minecraft:string"
+    },
+    "6": {
+      "item": "minecraft:gold_nugget"
+    },
+    "7": {
+      "tag": "minecraft:wool"
+    },
+    "8": {
+      "item": "opideru_two:engineriate_nugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_13",
+    "count": 1
+  }
+}

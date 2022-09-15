@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:coal_sparks"
+    },
+    {
+      "item": "opideru_two:coal_sparks"
+    },
+    {
+      "item": "opideru_two:coal_sparks"
+    },
+    {
+      "item": "opideru_two:coal_sparks"
+    },
+    {
+      "item": "opideru_two:coal_sparks"
+    },
+    {
+      "item": "opideru_two:coal_sparks"
+    },
+    {
+      "item": "opideru_two:coal_sparks"
+    },
+    {
+      "item": "opideru_two:coal_sparks"
+    },
+    {
+      "item": "opideru_two:coal_sparks"
+    }
+  ],
+  "result": {
+    "item": "minecraft:coal",
+    "count": 1
+  }
+}

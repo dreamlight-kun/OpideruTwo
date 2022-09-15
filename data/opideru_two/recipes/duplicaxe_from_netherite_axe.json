@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:enchantment_slots"
+    },
+    "1": {
+      "item": "minecraft:netherite_shovel"
+    },
+    "2": {
+      "tag": "forge:enchantment_slots"
+    },
+    "3": {
+      "item": "minecraft:netherite_pickaxe"
+    },
+    "4": {
+      "item": "opideru_two:gilded_netherite"
+    },
+    "5": {
+      "item": "minecraft:netherite_axe"
+    },
+    "6": {
+      "tag": "forge:enchantment_slots"
+    },
+    "7": {
+      "item": "minecraft:netherite_hoe"
+    },
+    "8": {
+      "tag": "forge:enchantment_slots"
+    }
+  },
+  "result": {
+    "item": "opideru_two:duplicaxe",
+    "count": 1
+  }
+}

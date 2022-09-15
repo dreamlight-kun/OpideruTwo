@@ -1,0 +1,13 @@
+{
+  "group": "engineriate",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:engineriate_block"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:engineriate_ingot",
+    "count": 9
+  }
+}

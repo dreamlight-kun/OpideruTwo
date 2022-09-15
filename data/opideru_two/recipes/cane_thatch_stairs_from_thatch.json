@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:cane_thatch"
+    },
+    "3": {
+      "item": "opideru_two:cane_thatch"
+    },
+    "4": {
+      "item": "opideru_two:cane_thatch"
+    },
+    "6": {
+      "item": "opideru_two:cane_thatch"
+    },
+    "7": {
+      "item": "opideru_two:cane_thatch"
+    },
+    "8": {
+      "item": "opideru_two:cane_thatch"
+    }
+  },
+  "result": {
+    "item": "opideru_two:cane_thatch_stairs",
+    "count": 4
+  }
+}

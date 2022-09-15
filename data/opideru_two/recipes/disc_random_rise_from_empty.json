@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "opideru_two:obsidian_emerald"
+    },
+    "3": {
+      "item": "opideru_two:emerald_nugget"
+    },
+    "4": {
+      "item": "opideru_two:disc_blank"
+    },
+    "5": {
+      "item": "opideru_two:emerald_nugget"
+    },
+    "7": {
+      "item": "opideru_two:obsidian_emerald"
+    }
+  },
+  "result": {
+    "item": "opideru_two:disc_dreamlight_random_rise",
+    "count": 1
+  }
+}

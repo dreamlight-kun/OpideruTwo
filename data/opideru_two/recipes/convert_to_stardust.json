@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:convertion_disc"
+    },
+    {
+      "tag": "opideru_two:fate_common"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:fate_stardust",
+    "count": 4
+  }
+}

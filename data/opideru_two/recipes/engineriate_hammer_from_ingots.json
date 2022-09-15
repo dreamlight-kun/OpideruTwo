@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:engineriate_ingot"
+    },
+    "1": {
+      "item": "opideru_two:engineriate_ingot"
+    },
+    "2": {
+      "item": "opideru_two:engineriate_ingot"
+    },
+    "3": {
+      "item": "opideru_two:engineriate_ingot"
+    },
+    "4": {
+      "tag": "forge:rods/wooden"
+    },
+    "5": {
+      "item": "opideru_two:engineriate_ingot"
+    },
+    "7": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "opideru_two:engineriate_hammer",
+    "count": 1
+  }
+}

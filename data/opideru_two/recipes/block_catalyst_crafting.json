@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:potion"
+    },
+    "1": {
+      "item": "opideru_two:watamite_gem"
+    },
+    "2": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "result": {
+    "item": "opideru_two:block_catalyst",
+    "count": 1
+  }
+}

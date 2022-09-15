@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opideru_two:carbon_ingot"
+    }
+  ],
+  "result": {
+    "item": "opideru_two:carbon_nugget",
+    "count": 9
+  }
+}

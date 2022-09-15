@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "opideru_two:duplicaxe"
+  },
+  "addition": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "result": {
+    "item": "opideru_two:duplication_pickaxe"
+  }
+}

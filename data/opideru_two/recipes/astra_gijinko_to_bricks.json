@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "opideru_two:astral_gijinko"
+  },
+  "result": "opideru_two:astral_gijinko_bricks"
+}

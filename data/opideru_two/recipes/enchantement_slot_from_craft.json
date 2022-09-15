@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "opideru_two:purified_gold_ingot"
+    },
+    "1": {
+      "item": "minecraft:enchanted_book"
+    },
+    "2": {
+      "item": "opideru_two:purified_gold_ingot"
+    },
+    "3": {
+      "item": "opideru_two:nether_star_shard"
+    },
+    "4": {
+      "item": "opideru_two:xp_infused_bottle_compressed"
+    },
+    "5": {
+      "item": "opideru_two:nether_star_shard"
+    },
+    "6": {
+      "item": "opideru_two:purified_gold_ingot"
+    },
+    "7": {
+      "item": "minecraft:enchanted_book"
+    },
+    "8": {
+      "item": "opideru_two:purified_gold_ingot"
+    }
+  },
+  "result": {
+    "item": "opideru_two:enchantement_slot_multiple",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:furnace"
+    },
+    "3": {
+      "item": "minecraft:crafting_table"
+    },
+    "4": {
+      "item": "opideru_two:disc_blank"
+    },
+    "5": {
+      "item": "minecraft:anvil"
+    },
+    "7": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_wait",
+    "count": 1
+  }
+}
