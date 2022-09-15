@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:stone"
+    },
+    "title": {
+      "translate": "advancements.karst_enter.title"
+    },
+    "description": {
+      "translate": "advancements.karst_enter.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "karst_enter": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "opideru_two:karst"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:biomes_origin"
+}

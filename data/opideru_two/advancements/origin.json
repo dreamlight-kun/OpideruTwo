@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "opideru_two:textures/screens/back.png",
+    "icon": {
+      "item": "minecraft:gilded_blackstone"
+    },
+    "title": {
+      "translate": "advancements.origin.title"
+    },
+    "description": {
+      "translate": "advancements.origin.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "origin": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

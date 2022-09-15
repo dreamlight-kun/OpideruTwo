@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:carbon_ingot"
+    },
+    "title": {
+      "translate": "advancements.carbonmetal_ingot_get.title"
+    },
+    "description": {
+      "translate": "advancements.carbonmetal_ingot_get.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "carbonmetal_ingot_get": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:materials_origin"
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:blade"
+    },
+    "title": {
+      "translate": "advancements.pure_gold_craft_blade.title"
+    },
+    "description": {
+      "translate": "advancements.pure_gold_craft_blade.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "pure_gold_craft_blade": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:pure_gold_get"
+}

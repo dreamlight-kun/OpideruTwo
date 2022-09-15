@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:soulmetal_ingot"
+    },
+    "title": {
+      "translate": "advancements.soulmetal_alchemist.title"
+    },
+    "description": {
+      "translate": "advancements.soulmetal_alchemist.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "soulmetal_alchemist": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "opideru_two:materials_origin"
+}

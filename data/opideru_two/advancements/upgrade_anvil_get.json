@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:deleted_mod_element"
+    },
+    "title": {
+      "translate": "advancements.upgrade_anvil_get.title"
+    },
+    "description": {
+      "translate": "advancements.upgrade_anvil_get.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "upgrade_anvil_get": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "opideru_two:deleted_mod_element"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:origin"
+}

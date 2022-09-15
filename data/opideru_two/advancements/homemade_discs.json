@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:disc_blank"
+    },
+    "title": {
+      "translate": "advancements.homemade_discs.title"
+    },
+    "description": {
+      "translate": "advancements.homemade_discs.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "homemade_discs": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:discs_origin"
+}

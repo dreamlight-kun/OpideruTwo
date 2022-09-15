@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:blade_n_handle"
+    },
+    "title": {
+      "translate": "advancements.pure_gold_craft_blade_n_handle.title"
+    },
+    "description": {
+      "translate": "advancements.pure_gold_craft_blade_n_handle.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "pure_gold_craft_blade_n_handle": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10,
+    "recipes": [
+      "opideru_two:gapseeking_glass_from_transcavite"
+    ]
+  },
+  "parent": "opideru_two:pure_gold_craft_manch"
+}

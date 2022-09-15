@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:handle"
+    },
+    "title": {
+      "translate": "advancements.pure_gold_craft_manch.title"
+    },
+    "description": {
+      "translate": "advancements.pure_gold_craft_manch.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "pure_gold_craft_manch": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:pure_gold_craft_blade"
+}

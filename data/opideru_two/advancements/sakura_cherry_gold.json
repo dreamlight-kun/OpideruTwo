@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:golden_cherry"
+    },
+    "title": {
+      "translate": "advancements.sakura_cherry_gold.title"
+    },
+    "description": {
+      "translate": "advancements.sakura_cherry_gold.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sakura_cherry_gold": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:sakura_cherry_harvest"
+}

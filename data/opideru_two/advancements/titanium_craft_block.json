@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:titanium_block"
+    },
+    "title": {
+      "translate": "advancements.titanium_craft_block.title"
+    },
+    "description": {
+      "translate": "advancements.titanium_craft_block.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "titanium_craft_block": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "opideru_two:titanium_block"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:titanium_ingot_get"
+}

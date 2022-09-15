@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:golden_cherry_enchanted"
+    },
+    "title": {
+      "translate": "advancements.sakura_cherry_gold_enchanted.title"
+    },
+    "description": {
+      "translate": "advancements.sakura_cherry_gold_enchanted.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sakura_cherry_gold_enchanted": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:sakura_cherry_gold"
+}

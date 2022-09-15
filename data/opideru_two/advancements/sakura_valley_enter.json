@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:sakura_sapling"
+    },
+    "title": {
+      "translate": "advancements.sakura_valley_enter.title"
+    },
+    "description": {
+      "translate": "advancements.sakura_valley_enter.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sakura_valley_enter": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "opideru_two:sakura_valley"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:biomes_origin"
+}

@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:music_disc_13"
+    },
+    "title": {
+      "translate": "advancements.disc_13_get.title"
+    },
+    "description": {
+      "translate": "advancements.disc_13_get.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "disc_13_get": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:music_disc_13",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10,
+    "loot": [
+      "opideru_two:advancements/disc_13_get"
+    ]
+  },
+  "parent": "opideru_two:discs_origin"
+}

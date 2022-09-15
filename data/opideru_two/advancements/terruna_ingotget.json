@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:terruna_ingot"
+    },
+    "title": {
+      "translate": "advancements.terruna_ingotget.title"
+    },
+    "description": {
+      "translate": "advancements.terruna_ingotget.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "terruna_ingotget": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:materials_origin"
+}

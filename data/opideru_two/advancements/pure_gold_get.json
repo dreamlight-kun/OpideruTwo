@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:purified_gold_ingot"
+    },
+    "title": {
+      "translate": "advancements.pure_gold_get.title"
+    },
+    "description": {
+      "translate": "advancements.pure_gold_get.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "pure_gold_get": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:materials_origin"
+}

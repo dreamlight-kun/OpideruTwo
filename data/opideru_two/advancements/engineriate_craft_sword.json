@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:engineriate_sword"
+    },
+    "title": {
+      "translate": "advancements.engineriate_craft_sword.title"
+    },
+    "description": {
+      "translate": "advancements.engineriate_craft_sword.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "engineriate_craft_sword": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:engineriate_ingot_get"
+}

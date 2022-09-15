@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:cherry"
+    },
+    "title": {
+      "translate": "advancements.sakura_cherry_harvest.title"
+    },
+    "description": {
+      "translate": "advancements.sakura_cherry_harvest.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sakura_cherry_harvest": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:sakura_get_sapling"
+}

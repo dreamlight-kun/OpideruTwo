@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "opideru_two:sakura_sapling"
+    },
+    "title": {
+      "translate": "advancements.sakura_get_sapling.title"
+    },
+    "description": {
+      "translate": "advancements.sakura_get_sapling.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sakura_get_sapling": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "opideru_two:sakura_sapling",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "opideru_two:sakura_valley_enter"
+}
