@@ -1,0 +1,124 @@
+{
+  "availability": {
+    "tier": 3,
+    "categories": [
+      "gem",
+      "organic"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "opideru_two:shimoba_emerald"
+    }
+  },
+  "name": {
+    "translate": "material.opideru_two.shimoba_emerald"
+  },
+  "stats": {
+    "main": {
+      "durability": 1651.0,
+      "repair_efficiency": 1.2,
+      "enchantability": 10.0,
+      "harvest_level": 3.0,
+      "harvest_level/pickaxe": 4.0,
+      "harvest_speed": 25.0,
+      "harvest_speed/hammer": 22.5,
+      "melee_damage": 3.5,
+      "reach_distance": 3.6,
+      "magic_damage": 12.0,
+      "attack_speed": 0.2,
+      "armor": 14,
+      "armor_toughness": 0.5,
+      "knockback_resistance": 0.1,
+      "ranged_damage": 5.0,
+      "ranged_speed": 0.8,
+      "projectile_speed": 1.5,
+      "projectile_accuracy": 0.95,
+      "rarity": 85.0,
+      "silentgems:chargeability": 2.2
+    },
+    "tip": {
+      "durability": {
+        "add": 25.0
+      },
+      "enchantability": {
+        "add": 2.0
+      },
+      "harvest_level": {
+        "max": 2.0
+      },
+      "harvest_speed": {
+        "add": 4.0
+      },
+      "melee_damage": {
+        "mul2": 1.5
+      },
+      "magic_damage": {
+        "mul2": 0.5
+      },
+      "ranged_damage": {
+        "add": 2.5
+      },
+      "rarity": {
+        "add": 10.0
+      }
+    },
+    "adornment": {
+      "magic_damage":{
+        "add": 5
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:chilled",
+        "level": 4
+      },
+      {
+        "name": "silentgear:malleable",
+        "level": 3
+      },
+      {
+        "name": "silentgear:imperial",
+        "level": 2
+      }
+      {
+        "name": "silentgear:mighty",
+        "level": 3,
+        "conditions": [
+          {
+            "type": "silentgear:or",
+            "values": [
+              {
+                "type": "silentgear:material_count",
+                "count": 3
+              },
+              {
+                "type": "silentgear:material_ratio",
+                "ratio": 0.5
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tip": [
+      {
+        "name": "silentgear:chilled",
+        "level": 4
+      },
+      {
+        "name": "silentgear:imperial",
+        "level": 2
+      },
+      {
+        "name": "silentgear:mighty",
+        "level": 2,
+      }
+    ]
+  }
+}

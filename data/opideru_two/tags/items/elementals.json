@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:blaze_powder",
+    "minecraft:magma_cream",
+    "opideru_two:nelyi_flower",
+    "minecraft:prismarine_shard",
+    "opideru_two:obsidian_emerald_block",
+    "opideru_two:glaze_rod",
+    "opideru_two:transluscient_blue_ice",
+    "opideru_two:shimoba_dust",
+    "opideru_two:kasainium_ingot",
+    "minecraft:ice",
+    "opideru_two:youganba_essence",
+    "minecraft:frosted_ice",
+    "opideru_two:heart_of_the_mountain",
+    "opideru_two:shimoba_dust_smelted",
+    "opideru_two:obsidian_emerald",
+    "opideru_two:cryonium",
+    "opideru_two:shimoba_emerald",
+    "minecraft:packed_ice",
+    "minecraft:blaze_rod",
+    "opideru_two:shimoba_emerald_block",
+    "minecraft:prismarine_crystals",
+    "minecraft:heart_of_the_sea",
+    "opideru_two:kasainium_block",
+    "opideru_two:glaze_powder",
+    "minecraft:blue_ice"
+  ]
+}

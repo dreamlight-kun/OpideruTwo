@@ -1,0 +1,65 @@
+{
+  "availability": {
+    "tier": 4,
+    "categories": [
+      "gem",
+      "rock"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "subs": {
+      "coating": {
+        "item": "opideru_two:obsidian_emerald"
+      }
+    }
+  },
+  "name": {
+    "translate": "material.opideru_two.obsidian_emerald"
+  },
+  "stats": {
+    "coating": {
+      "durability":{
+        "mul2": 2.2
+      },
+      "armor_durability": {
+        "mul1": 2.5
+      },
+      "melee_damage": {
+        "mul2": 1.5
+      },
+      "reach_distance": {
+        "add": 3
+      },
+      "harvest_speed": {
+        "mul2": 2.2
+      },
+      "harvest_level": {
+        "max": 4
+      },
+      "enchantability": {
+        "add": 15
+      },
+      "armor": {
+        "mul2": 1.5
+      },
+      "rarity": {
+        "add": 50.0
+      }
+    }
+  },
+  "traits": {
+    "coating": [
+      {
+        "name": "silentgear:accelerate",
+        "level": 2,
+      },
+      {
+        "name": "silentgear:flame_ward",
+        "level": 1,
+      }
+    ]
+  }
+}

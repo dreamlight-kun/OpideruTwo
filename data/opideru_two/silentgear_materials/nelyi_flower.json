@@ -1,0 +1,29 @@
+{
+  "availability": {
+    "tier": 1,
+    "categories": [
+      "organic"
+    ],
+    "visible": false,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "subs": {
+      "grip":{
+        "item": "opideru_two:nelyi_flower"
+      }
+    }
+  },
+  "name": {
+    "translate": "material.opideru_two.nelyi_flower"
+  },
+  "traits": {
+    "grip": [
+      {
+        "name": "silentgear:chilled",
+        "level": 4
+      }
+    ]
+  }
+}
