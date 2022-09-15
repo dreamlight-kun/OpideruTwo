@@ -1,0 +1,65 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item" : "opideru_two:prototype_catalyst"
+  },
+  "transitionalItem": {
+    "item": "opideru_two:incomplete_catalyst"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "opideru_two:incomplete_catalyst"
+        },
+        {
+          "item": "opideru_two:kasainium_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "opideru_two:incomplete_catalyst"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "opideru_two:incomplete_catalyst"
+        },
+        {
+          "item": "create:brass_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "opideru_two:incomplete_catalyst"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "opideru_two:incomplete_catalyst"
+        },
+        {
+          "item": "opideru_two:life_dust"
+        }
+      ],
+      "results": [
+        {
+          "item": "opideru_two:incomplete_catalyst"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "opideru_two:blood_moon_s_eye"
+    }
+  ],
+  "loops": 4
+}

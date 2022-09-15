@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:entity_melting",
+  "entity": {
+    "type": "opideru_two:glaze"
+  },
+  "result": {
+    "fluid": "opideru_two:nelyi_holy_water",
+    "amount": 20
+  },
+  "damage": 2
+}

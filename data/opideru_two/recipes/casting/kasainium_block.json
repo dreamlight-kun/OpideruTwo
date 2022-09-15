@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_basin",
+  "cast": {
+    "item": "minecraft:iron_block"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "tconstruct:blazing_blood",
+    "amount": 1296
+  },
+  "result": "opideru_two:kasainium_block",
+  "cooling_time": 90
+}

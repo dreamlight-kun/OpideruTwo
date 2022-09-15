@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "minecraft:emerald"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "fluid": "opideru_two:nelyi_holy_water",
+    "amount": 144
+  },
+  "result": "opideru_two:shimoba_emerald",
+  "cooling_time": 90
+}

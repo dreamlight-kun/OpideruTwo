@@ -1,0 +1,66 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item" : "opideru_two:moltira_pearl"
+  },
+  "transitionalItem": {
+    "item": "opideru_two:incomplete_catalyst"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "opideru_two:incomplete_catalyst"
+        },
+        {
+          "item": "create:large_cogwheel"
+        }
+      ],
+      "results": [
+        {
+          "item": "opideru_two:incomplete_catalyst"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "opideru_two:incomplete_catalyst"
+        },
+        {
+          "fluid": "minecraft:water",
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "opideru_two:incomplete_catalyst"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "opideru_two:incomplete_catalyst"
+        },
+        {
+          "item": "kubejs:sealed_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "opideru_two:incomplete_catalyst"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "create:creative_motor"
+    }
+  ],
+  "loops": 1
+}

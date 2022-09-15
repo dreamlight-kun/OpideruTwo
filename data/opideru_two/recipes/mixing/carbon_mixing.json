@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+    	{
+    		"tag":"minecraft:coals",
+    		"count":1
+    	},
+    	{
+    		"item" : "minecraft:iron_nugget",
+    		"count": 4
+    	}
+    ],
+	"results": [
+		{
+			"item": "opideru_two:carbon_ingot",
+			"count": 1,
+			"chance":1.0
+		}
+	],
+    "heatRequirement": "heated"
+}

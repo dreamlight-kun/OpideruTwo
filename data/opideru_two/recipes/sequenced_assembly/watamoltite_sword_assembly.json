@@ -1,0 +1,65 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item" : "minecraft:iron_sword"
+  },
+  "transitionalItem": {
+    "item": "opideru_two:incomplete_sword"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "opideru_two:incomplete_sword"
+        },
+        {
+          "item": "opideru_two:watamite_gem"
+        }
+      ],
+      "results": [
+        {
+          "item": "opideru_two:incomplete_sword"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "opideru_two:incomplete_sword"
+        },
+        {
+          "item": "opideru_two:moltira_gem"
+        }
+      ],
+      "results": [
+        {
+          "item": "opideru_two:incomplete_sword"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "opideru_two:incomplete_sword"
+        },
+        {
+          "item": "opideru_two:nether_star_shard"
+        }
+      ],
+      "results": [
+        {
+          "item": "opideru_two:incomplete_sword"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "opideru_two:naetherin"
+    }
+  ],
+  "loops": 2
+}

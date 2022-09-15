@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+    	{
+    		"tag":"opideru_two:youganba_essence",
+    		"count":1
+    	},
+    	{
+    		"item" : "minecraft:iron_nugget",
+    		"count": 8
+    	}
+    ],
+	"results": [
+		{
+			"item": "opideru_two:kasainium_ingot",
+			"count": 1,
+			"chance":1.0
+		}
+	],
+    "heatRequirement": "superheated"
+}

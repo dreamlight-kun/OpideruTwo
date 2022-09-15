@@ -1,0 +1,21 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+    	{
+    		"item": "opideru_two:engineriate_ore"
+    	}
+    ],
+    "processingTime":800,
+	"results": [
+		{
+			"item": "opideru_two:crushed_engineriate",
+			"count": 2,
+			"chance":1.0
+		},
+		{
+			"item": "minecraft:crushed_engineriate",
+			"count": 1,
+			"chance":0.25
+		}
+	]
+}

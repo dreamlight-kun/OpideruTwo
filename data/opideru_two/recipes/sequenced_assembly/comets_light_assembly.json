@@ -1,0 +1,65 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item" : "opideru_two:prototype_polearm"
+  },
+  "transitionalItem": {
+    "item": "opideru_two:incomplete_polearm"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "opideru_two:incomplete_polearm"
+        },
+        {
+          "item": "opideru_two:shimoba_emerald"
+        }
+      ],
+      "results": [
+        {
+          "item": "opideru_two:incomplete_polearm"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "opideru_two:incomplete_polearm"
+        },
+        {
+          "item": "opideru_two:engineriate_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "opideru_two:incomplete_polearm"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "opideru_two:incomplete_polearm"
+        },
+        {
+          "item": "opideru_two:quartz_tile"
+        }
+      ],
+      "results": [
+        {
+          "item": "opideru_two:incomplete_polearm"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "opideru_two:comets_light"
+    }
+  ],
+  "loops": 4
+}

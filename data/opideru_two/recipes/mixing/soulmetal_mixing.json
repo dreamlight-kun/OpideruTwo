@@ -1,0 +1,25 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:soul_sand",
+    		"count": 4,
+    		"return_chance": 0.75
+    	},
+    	{
+    		"tag":"minecraft:coals",
+    		"count":1
+    	},
+    	{
+    		"item" : "minecraft:iron_nugget",
+    		"count": 4
+    	}
+    ],
+	"results": [
+		{
+			"item": "opideru_two:soulmetal_ingot",
+			"count": 1,
+			"chance":1.0
+		}
+	]
+}
