@@ -1,0 +1,14 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+    	{
+    		"item": "opideru_two:engineriate_ingot"
+    	}
+    ],
+	"results": [
+		{
+			"item": "opideru_two:powdered_engineriate",
+			"count": 1
+		}
+	]
+}
