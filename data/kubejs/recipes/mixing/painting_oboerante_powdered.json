@@ -2,12 +2,10 @@
     "type": "create:mixing",
     "ingredients": [
     	{
-    		"item":"opideru_two:powdered_oboerante",
-    		"count":1
+    		"item":"opideru_two:powdered_oboerante"
     	},
     	{
-    		"item" : "minecraft:light_blue_dye",
-    		"count": 4
+    		"item" : "minecraft:light_blue_dye"
     	}
     ],
 	"results": [
