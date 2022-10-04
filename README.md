@@ -8,4 +8,4 @@ To-Do list:
   -Make a proper README
   -Make a wiki for the mod and technical things inside it
   -Upload the mod
-https://github.com/Tiniifan/YKWrandomizer
+
