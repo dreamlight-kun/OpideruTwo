@@ -1,0 +1,20 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+    	{
+    		"item": "opideru_two:crushed_engineriate"
+    	}
+    ],
+	"results": [
+		{
+			"item": "opideru_two:powdered_engineriate",
+			"count": 2,
+			"chance": 1.0
+		},
+		{
+			"item": "minecraft:redstone_dust",
+			"count": 1,
+			"chance": 0.25
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "tconstruct:casting_table",
+    "cast": {
+      "item": "tconstruct:goldingot_cast"
+    },
+    "cast_consumed": false,
+    "fluid": {
+      "tag": "forge:molten/titanium",
+      "amount": 144
+    },
+    "result": "opideru_two:titanium_ingot",
+    "cooling_time": 90
+  }
